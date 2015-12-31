@@ -28,26 +28,6 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B81E51161C32029A00E12BF4"
-               BuildableName = "Tip Calculator.xctest"
-               BlueprintName = "Tip CalculatorTests"
-               ReferencedContainer = "container:Tip Calculator.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "B81E51211C32029A00E12BF4"
-               BuildableName = "Tip Calculator.xctest"
-               BlueprintName = "Tip CalculatorUITests"
-               ReferencedContainer = "container:Tip Calculator.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
